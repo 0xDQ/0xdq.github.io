@@ -4,7 +4,7 @@
   <title><![CDATA[Duke's Blog]]></title>
   <link href="http://0xdq.github.io/atom.xml" rel="self"/>
   <link href="http://0xdq.github.io/"/>
-  <updated>2015-01-03T01:01:00-07:00</updated>
+  <updated>2015-01-03T01:02:31-07:00</updated>
   <id>http://0xdq.github.io/</id>
   <author>
     <name><![CDATA[Duke]]></name>
@@ -12,5 +12,14 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[My Data Visualization Project]]></title>
+    <link href="http://0xdq.github.io/blog/2015/01/03/my-data-visualization-project/"/>
+    <updated>2015-01-03T01:02:16-07:00</updated>
+    <id>http://0xdq.github.io/blog/2015/01/03/my-data-visualization-project</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
   
 </feed>
