@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Duke's Blog]]></title>
-  <link href="http://0xdq.github.io/atom.xml" rel="self"/>
+  <title><![CDATA[Category: Jailbreak | Duke's Blog]]></title>
+  <link href="http://0xdq.github.io/blog/categories/jailbreak/atom.xml" rel="self"/>
   <link href="http://0xdq.github.io/"/>
   <updated>2015-01-03T01:56:30-07:00</updated>
   <id>http://0xdq.github.io/</id>
