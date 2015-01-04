@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Duke's Blog]]></title>
-  <link href="http://0xdq.github.io/atom.xml" rel="self"/>
+  <title><![CDATA[Category: Octopress | Duke's Blog]]></title>
+  <link href="http://0xdq.github.io/blog/categories/octopress/atom.xml" rel="self"/>
   <link href="http://0xdq.github.io/"/>
   <updated>2015-01-04T16:11:25-07:00</updated>
   <id>http://0xdq.github.io/</id>
@@ -29,36 +29,6 @@ fatal: Could not read from remote repository.</p>
 
 <p>Below is the link telling you how to generate the key:
 <a href="https://help.github.com/articles/generating-ssh-keys/">Generate-SSH-Key</a></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Test]]></title>
-    <link href="http://0xdq.github.io/blog/2015/01/04/test/"/>
-    <updated>2015-01-04T14:58:45-07:00</updated>
-    <id>http://0xdq.github.io/blog/2015/01/04/test</id>
-    <content type="html"><![CDATA[
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[My Jailbreak Tweaks]]></title>
-    <link href="http://0xdq.github.io/blog/2015/01/03/my-jailbreak-tweaks/"/>
-    <updated>2015-01-03T01:49:43-07:00</updated>
-    <id>http://0xdq.github.io/blog/2015/01/03/my-jailbreak-tweaks</id>
-    <content type="html"><![CDATA[<h2>My Jailbreak Tweaks so far</h2>
-
-<h3>List of tweaks</h3>
-
-<p><img src="https://dl-web.dropbox.com/get/BlogImage/1.png?_subject_uid=100277863&amp;w=AACyZD3ffl-mEvgni90fmOfgr5fcujXePvkeumrUEi8TWQ" alt="image1" /></p>
-
-<h3>Auxo 3</h3>
-
-<p><img src="https://dl-web.dropbox.com/get/BlogImage/2.png?_subject_uid=100277863&amp;w=AABxofHktucE7EGAU9mb9iy7Y6qUCrU3V0kKANpJ9xceqQ" alt="image2" /></p>
-
-<h3>LockGlyph</h3>
-
-<p><img src="https://dl-web.dropbox.com/get/BlogImage/3.png?_subject_uid=100277863&amp;w=AADvR9NWyhz0xCvU2n9AMT4xHq9tycQaa7DiO0csJ5IfdQ" alt="image3" /></p>
 ]]></content>
   </entry>
   
