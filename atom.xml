@@ -4,7 +4,7 @@
   <title><![CDATA[Duke's Home Page]]></title>
   <link href="http://0xdq.github.io/atom.xml" rel="self"/>
   <link href="http://0xdq.github.io/"/>
-  <updated>2015-01-04T18:42:19-07:00</updated>
+  <updated>2015-01-04T19:39:51-07:00</updated>
   <id>http://0xdq.github.io/</id>
   <author>
     <name><![CDATA[Duke]]></name>
@@ -26,6 +26,9 @@
 fatal: Could not read from remote repository.</p>
 
 <p>It&rsquo;s actually not big deal since you just need to update your ssh so that GitHub can match with your local key.</p>
+
+<!--more-->
+
 
 <p>Below is the link telling you how to generate the key:
 <a href="https://help.github.com/articles/generating-ssh-keys/">Generate-SSH-Key</a></p>
@@ -51,6 +54,9 @@ fatal: Could not read from remote repository.</p>
 <h3>List of tweaks</h3>
 
 <p><img src="http://0xdq.github.io/blog/gallery/demo/2015-01-03-my-jailbreak-tweaks-1.jpg" alt="image1" /></p>
+
+<!--more-->
+
 
 <h3>Auxo 3</h3>
 
