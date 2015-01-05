@@ -4,7 +4,7 @@
   <title><![CDATA[Duke's Home Page]]></title>
   <link href="http://0xdq.github.io/atom.xml" rel="self"/>
   <link href="http://0xdq.github.io/"/>
-  <updated>2015-01-04T20:54:49-07:00</updated>
+  <updated>2015-01-04T21:32:33-07:00</updated>
   <id>http://0xdq.github.io/</id>
   <author>
     <name><![CDATA[Duke]]></name>
@@ -18,12 +18,13 @@
     <link href="http://0xdq.github.io/blog/2015/01/04/error-permission-denied-publickey-fatal-could-not-read-from-remote-repository/"/>
     <updated>2015-01-04T16:02:59-07:00</updated>
     <id>http://0xdq.github.io/blog/2015/01/04/error-permission-denied-publickey-fatal-could-not-read-from-remote-repository</id>
-    <content type="html"><![CDATA[<h2>Error: Permission denied (publickey). fatal: Could not read from remote repository.</h2>
+    <content type="html"><![CDATA[<p>When I tried to use rake deloy command to deloy my blog change to GitHub I got the folloing error:</p>
 
-<p>When I tried to use rake deloy command to deloy my blog change to GitHub I got the folloing error:</p>
+<figure class='code'><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+<span class='line-number'>2</span>
+</pre></td><td class='code'><pre><code class=''><span class='line'>Permission denied (publickey).
+</span><span class='line'>fatal: Could not read from remote repository.</span></code></pre></td></tr></table></div></figure>
 
-<p>Permission denied (publickey).
-fatal: Could not read from remote repository.</p>
 
 <p>It&rsquo;s actually not big deal since you just need to update your ssh so that GitHub can match with your local key.</p>
 
@@ -32,15 +33,6 @@ fatal: Could not read from remote repository.</p>
 
 <p>Below is the link telling you how to generate the key:
 <a href="https://help.github.com/articles/generating-ssh-keys/">Generate-SSH-Key</a></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Test]]></title>
-    <link href="http://0xdq.github.io/blog/2015/01/04/test/"/>
-    <updated>2015-01-04T14:58:45-07:00</updated>
-    <id>http://0xdq.github.io/blog/2015/01/04/test</id>
-    <content type="html"><![CDATA[
 ]]></content>
   </entry>
   
