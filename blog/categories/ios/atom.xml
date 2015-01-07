@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Category: Jailbreak | Duke's Home Page]]></title>
-  <link href="http://0xdq.github.io/blog/categories/jailbreak/atom.xml" rel="self"/>
+  <title><![CDATA[Category: Ios | Duke's Home Page]]></title>
+  <link href="http://0xdq.github.io/blog/categories/ios/atom.xml" rel="self"/>
   <link href="http://0xdq.github.io/"/>
   <updated>2015-01-06T20:32:02-07:00</updated>
   <id>http://0xdq.github.io/</id>
@@ -42,30 +42,6 @@ winterboard
 
 zeppelin
 </code></pre>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[My Jailbreak Tweaks]]></title>
-    <link href="http://0xdq.github.io/blog/2015/01/03/my-jailbreak-tweaks/"/>
-    <updated>2015-01-03T01:49:43-07:00</updated>
-    <id>http://0xdq.github.io/blog/2015/01/03/my-jailbreak-tweaks</id>
-    <content type="html"><![CDATA[<h2>My Jailbreak Tweaks so far</h2>
-
-<h3>List of tweaks</h3>
-
-<p><img src="/blog/gallery/demo/2015-01-03-my-jailbreak-tweaks-1.jpg" alt="image1" /></p>
-
-<!--more-->
-
-
-<h3>Auxo 3</h3>
-
-<p><img src="/blog/gallery/demo/2015-01-03-my-jailbreak-tweaks-2.jpg" alt="image2" /></p>
-
-<h3>LockGlyph</h3>
-
-<p><img src="/blog/gallery/demo/2015-01-03-my-jailbreak-tweaks-3.jpg" alt="image3" /></p>
 ]]></content>
   </entry>
   

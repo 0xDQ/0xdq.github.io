@@ -4,7 +4,7 @@
   <title><![CDATA[Duke's Home Page]]></title>
   <link href="http://0xdq.github.io/atom.xml" rel="self"/>
   <link href="http://0xdq.github.io/"/>
-  <updated>2015-01-06T17:21:25-07:00</updated>
+  <updated>2015-01-06T20:32:02-07:00</updated>
   <id>http://0xdq.github.io/</id>
   <author>
     <name><![CDATA[Duke]]></name>
@@ -12,6 +12,59 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Jailbreak Tweak Checklist]]></title>
+    <link href="http://0xdq.github.io/blog/2015/01/06/jailbreak-tweak-checklist/"/>
+    <updated>2015-01-06T20:28:41-07:00</updated>
+    <id>http://0xdq.github.io/blog/2015/01/06/jailbreak-tweak-checklist</id>
+    <content type="html"><![CDATA[<h3>Just a check list in case I forget</h3>
+
+<figure class='code'><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+<span class='line-number'>2</span>
+<span class='line-number'>3</span>
+<span class='line-number'>4</span>
+<span class='line-number'>5</span>
+<span class='line-number'>6</span>
+<span class='line-number'>7</span>
+<span class='line-number'>8</span>
+<span class='line-number'>9</span>
+<span class='line-number'>10</span>
+<span class='line-number'>11</span>
+<span class='line-number'>12</span>
+<span class='line-number'>13</span>
+<span class='line-number'>14</span>
+<span class='line-number'>15</span>
+<span class='line-number'>16</span>
+<span class='line-number'>17</span>
+<span class='line-number'>18</span>
+<span class='line-number'>19</span>
+<span class='line-number'>20</span>
+<span class='line-number'>21</span>
+</pre></td><td class='code'><pre><code class=''><span class='line'>ayeris
+</span><span class='line'>
+</span><span class='line'>barrel
+</span><span class='line'>
+</span><span class='line'>darameter
+</span><span class='line'>
+</span><span class='line'>ifile
+</span><span class='line'>
+</span><span class='line'>instaenhancer
+</span><span class='line'>
+</span><span class='line'>noslowanimation
+</span><span class='line'>
+</span><span class='line'>swipeselection
+</span><span class='line'>
+</span><span class='line'>tage
+</span><span class='line'>
+</span><span class='line'>virtualhome 
+</span><span class='line'>
+</span><span class='line'>winterboard
+</span><span class='line'>
+</span><span class='line'>zeppelin</span></code></pre></td></tr></table></div></figure>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Test]]></title>
