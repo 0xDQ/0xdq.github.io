@@ -4,7 +4,7 @@
   <title><![CDATA[Duke's Home Page]]></title>
   <link href="http://0xdq.github.io/atom.xml" rel="self"/>
   <link href="http://0xdq.github.io/"/>
-  <updated>2015-01-07T02:21:32-07:00</updated>
+  <updated>2015-01-07T02:33:24-07:00</updated>
   <id>http://0xdq.github.io/</id>
   <author>
     <name><![CDATA[Duke]]></name>
@@ -12,6 +12,37 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Markdown Notes]]></title>
+    <link href="http://0xdq.github.io/blog/2015/01/07/markdown-notes/"/>
+    <updated>2015-01-07T02:29:06-07:00</updated>
+    <id>http://0xdq.github.io/blog/2015/01/07/markdown-notes</id>
+    <content type="html"><![CDATA[<h3>1. Show app info from AppStore</h3>
+
+<p><a href="https://github.com/otaviocc/octopress-appstore">source</a></p>
+
+<p>Example: <p id='app-widget-com-burbn-instagram'>
+  <img src='http://a643.phobos.apple.com/us/r30/Purple3/v4/28/91/97/28919714-c36b-6fdf-30a7-a8c153db7449/Icon-57.png' class='app-icon' style='width:60px; height:60px; vertical-align:middle; margin: 0.1em; border: 0em' />
+  <span class='app-name'>
+    <a class='com-burbn-instagram' href='https://itunes.apple.com/us/app/instagram/id389801252?mt=8&uo=4' target='_blank'>Instagram</a>
+  </span>
+</p></p>
+
+<h3>2. Hide post content</h3>
+
+<!--more-->
+
+
+
+
+<figure class='code'><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+</pre></td><td class='code'><pre><code class=''><span class='line'> &lt;!--more--&gt;</span></code></pre></td></tr></table></div></figure>
+
+
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[A Great Tweak for Instagram]]></title>
