@@ -4,7 +4,7 @@
   <title><![CDATA[Duke's Home Page]]></title>
   <link href="http://0xdq.github.io/atom.xml" rel="self"/>
   <link href="http://0xdq.github.io/"/>
-  <updated>2015-01-07T02:33:24-07:00</updated>
+  <updated>2015-01-07T02:34:37-07:00</updated>
   <id>http://0xdq.github.io/</id>
   <author>
     <name><![CDATA[Duke]]></name>
@@ -45,21 +45,6 @@
   </entry>
   
   <entry>
-    <title type="html"><![CDATA[A Great Tweak for Instagram]]></title>
-    <link href="http://0xdq.github.io/blog/2015/01/07/a-great-tweak-for-instagram/"/>
-    <updated>2015-01-07T02:19:43-07:00</updated>
-    <id>http://0xdq.github.io/blog/2015/01/07/a-great-tweak-for-instagram</id>
-    <content type="html"><![CDATA[<p id='app-widget-com-burbn-instagram'>
-  <img src='http://a643.phobos.apple.com/us/r30/Purple3/v4/28/91/97/28919714-c36b-6fdf-30a7-a8c153db7449/Icon-57.png' class='app-icon' style='width:60px; height:60px; vertical-align:middle; margin: 0.1em; border: 0em' />
-  <span class='app-name'>
-    <a class='com-burbn-instagram' href='https://itunes.apple.com/us/app/instagram/id389801252?mt=8&uo=4' target='_blank'>Instagram</a>
-  </span>
-</p>
-
-]]></content>
-  </entry>
-  
-  <entry>
     <title type="html"><![CDATA[Jailbreak Tweak Checklist]]></title>
     <link href="http://0xdq.github.io/blog/2015/01/06/jailbreak-tweak-checklist/"/>
     <updated>2015-01-06T20:28:41-07:00</updated>
@@ -91,17 +76,6 @@
 </span><span class='line'>winterboard
 </span><span class='line'>zeppelin</span></code></pre></td></tr></table></div></figure>
 
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Test]]></title>
-    <link href="http://0xdq.github.io/blog/2015/01/04/test/"/>
-    <updated>2015-01-04T22:39:01-07:00</updated>
-    <id>http://0xdq.github.io/blog/2015/01/04/test</id>
-    <content type="html"><![CDATA[<p><a href="http://www.youtube.com/watch?feature=player_embedded&v=38IqQpwPe7s
-" target="_blank"><img src="http://img.youtube.com/vi/38IqQpwPe7s/0.jpg"
-alt="IMAGE ALT TEXT HERE" width="600" height="450" border="10" /></a></p>
 ]]></content>
   </entry>
   
