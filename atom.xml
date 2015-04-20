@@ -4,7 +4,7 @@
   <title><![CDATA[Duke's Home Page]]></title>
   <link href="http://0xdq.github.io/atom.xml" rel="self"/>
   <link href="http://0xdq.github.io/"/>
-  <updated>2015-04-19T18:11:24-07:00</updated>
+  <updated>2015-04-19T18:16:13-07:00</updated>
   <id>http://0xdq.github.io/</id>
   <author>
     <name><![CDATA[Duke]]></name>
@@ -26,6 +26,26 @@
 <div class="youtube-lazy-link-info">Word Helper Demo</div>
 </a>
 <div class="video-info" >A Demo of my iOS Application Word Helper</div>
+</div>
+
+
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Visualizing Colorado School Grades Demo]]></title>
+    <link href="http://0xdq.github.io/blog/2015/01/28/visualizing-colorado-school-grades-demo/"/>
+    <updated>2015-01-28T18:14:33-07:00</updated>
+    <id>http://0xdq.github.io/blog/2015/01/28/visualizing-colorado-school-grades-demo</id>
+    <content type="html"><![CDATA[
+
+<div class="ratio-4-3 embed-video-container" onclick="var myAnchor = document.getElementById('EzVkc84Ybho');var tmpDiv = document.createElement('div');tmpDiv.innerHTML = '&lt;iframe style=&quot;vertical-align:top;width:100%;height:100%;position:absolute;&quot; src=&quot;http://www.youtube.com/embed/EzVkc84Ybho?autoplay=1&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;';myAnchor.parentNode.replaceChild(tmpDiv.firstChild, myAnchor);return false;" title="click here to play">
+<a class="youtube-lazy-link" style="width:100%;height:100%;background:#000 url(http://i2.ytimg.com/vi/EzVkc84Ybho/0.jpg) center center no-repeat;background-size:contain;position:absolute" href="http://www.youtube.com/watch?v=EzVkc84Ybho" id="EzVkc84Ybho" onclick="return false;">
+<div class="youtube-lazy-link-div"></div>
+<div class="youtube-lazy-link-info">Visualizing Colorado School Grades</div>
+</a>
+<div class="video-info" >ASU CSE591: Data Visualization</div>
 </div>
 
 
